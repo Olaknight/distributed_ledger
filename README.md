@@ -1,4 +1,4 @@
-# Hangman Game - Web application
+# Distributed Ledger - Web Service
 
 ##### Simple decentralized service, for keeping ledgers
 
